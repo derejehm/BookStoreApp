@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\udemy\\BookStore\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|e:\\udemy\\bookstore\\bookstoreapp\\bookstoreapp.api\\logs\\log-20250428.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\logs\\log-20250428.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|e:\\udemy\\bookstore\\bookstoreapp\\bookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|e:\\udemy\\bookstore\\bookstoreapp\\bookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE15B0CC-729E-4D88-A0E0-A3CE645B865F}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log-20250428.txt",
+              "DocumentMoniker": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\logs\\log-20250428.txt",
+              "RelativeDocumentMoniker": "BookStoreApp.API\\logs\\log-20250428.txt",
+              "ToolTip": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\logs\\log-20250428.txt",
+              "RelativeToolTip": "BookStoreApp.API\\logs\\log-20250428.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-28T13:35:05.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoreApp.API\\appsettings.json",
+              "ToolTip": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\appsettings.json",
+              "RelativeToolTip": "BookStoreApp.API\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T13:26:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreApp.API\\Program.cs",
+              "ToolTip": "E:\\udemy\\BookStore\\BookStoreApp\\BookStoreApp.API\\Program.cs",
+              "RelativeToolTip": "BookStoreApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:22:15.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
